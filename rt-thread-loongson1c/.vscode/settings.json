@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ls1c_timer.h": "c",
+        "ls1c_public.h": "c",
+        "sysctl.h": "c",
+        "tick.h": "c",
+        "vcruntime.h": "c",
+        "ls1c_pin.h": "c",
+        "pin.h": "c",
+        "drv_gpio.h": "c"
+    }
+}
